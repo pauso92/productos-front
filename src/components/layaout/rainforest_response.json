@@ -1,0 +1,218 @@
+{
+    "request_info": {
+      "success": true,
+      "credits_used": 34,
+      "credits_remaining": 66
+    },
+    "request_metadata": {
+      "created_at": "2020-07-14T03:31:17.321Z",
+      "processed_at": "2020-07-14T03:31:20.720Z",
+      "total_time_taken": 3.4,
+      "amazon_url": "https://www.amazon.com.mx/s/?k=volova&ref=nb_sb_noss_2",
+      "timing": [
+        "global_init - 0ms (total 0ms)",
+        "auth_apikey - 49ms (total 49ms)",
+        "auth_retrieve_plan - 56ms (total 105ms)",
+        "auth_retrieve_credit_usage - 2353ms (total 2459ms)",
+        "processing_invoking_worker - 0ms (total 2459ms)",
+        "processing_execution_complete - 3399ms (total 5859ms)",
+        "auth_credit_usage_reconcile - 89ms (total 5948ms)",
+        "global_end - 0ms (total 5948ms)"
+      ]
+    },
+    "request_parameters": {
+      "type": "search",
+      "amazon_domain": "amazon.com.mx",
+      "search_term": "volova"
+    },
+    "search_results": [
+      {
+        "position": 1,
+        "title": "New Generation Formulations of Agrochemicals: Current Trends and Future Priorities (English Edition)",
+        "asin": "B07V1WJSD8",
+        "link": "https://www.amazon.com.mx/dp/B07V1WJSD8",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/71ugkOA4P+L._AC_UL320_.jpg",
+        "is_prime": false,
+        "sponsored": false,
+        "prices": [
+          {
+            "symbol": "$",
+            "value": 927.2,
+            "currency": "USD",
+            "raw": "$927.20",
+            "name": "primary"
+          },
+          {
+            "symbol": "$",
+            "value": 1159,
+            "currency": "USD",
+            "raw": "$1,159.00",
+            "name": "original"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "Controlled Release of Pesticides for Sustainable Agriculture (English Edition)",
+        "asin": "B07VYXDBXN",
+        "link": "https://www.amazon.com.mx/dp/B07VYXDBXN",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/61mMKMB2xVL._AC_UL320_.jpg",
+        "is_prime": false,
+        "sponsored": false,
+        "prices": [
+          {
+            "symbol": "$",
+            "value": 2829.26,
+            "currency": "USD",
+            "raw": "$2,829.26",
+            "name": "primary"
+          },
+          {
+            "symbol": "$",
+            "value": 3536.58,
+            "currency": "USD",
+            "raw": "$3,536.58",
+            "name": "original"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "hydrogen-based-biosynthesis",
+        "asin": "B0082OLRLM",
+        "link": "https://www.amazon.com.mx/dp/B0082OLRLM",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/51KhSf2aaOL._AC_UL320_.jpg",
+        "is_prime": false,
+        "sponsored": false
+      },
+      {
+        "position": 4,
+        "title": "Kak Nastroit' Yogu \"Pod Sebya\"?",
+        "asin": "3841772064",
+        "link": "https://www.amazon.com.mx/dp/3841772064",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/41kZJYLkgGL._AC_UL320_.jpg",
+        "is_prime": false,
+        "sponsored": false
+      },
+      {
+        "position": 5,
+        "title": "Natural-Based Polymers for Biomedical Applications (English Edition)",
+        "asin": "B07252KH6W",
+        "link": "https://www.amazon.com.mx/dp/B07252KH6W",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/51QmUbz63hL._AC_UL320_.jpg",
+        "is_prime": false,
+        "sponsored": false,
+        "prices": [
+          {
+            "symbol": "$",
+            "value": 927.2,
+            "currency": "USD",
+            "raw": "$927.20",
+            "name": "primary"
+          },
+          {
+            "symbol": "$",
+            "value": 1159,
+            "currency": "USD",
+            "raw": "$1,159.00",
+            "name": "original"
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "Polyhydroxyalkanoates - Plastic Materials of the 21st Century",
+        "asin": "1590339924",
+        "link": "https://www.amazon.com.mx/dp/1590339924",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/415G3HXB0ML._AC_UL320_.jpg",
+        "is_prime": false,
+        "sponsored": false
+      },
+      {
+        "position": 7,
+        "title": "Applied Biopolymer Technology and Bioplastics: Sustainable Development by Green Engineering Materials",
+        "asin": "1771889217",
+        "link": "https://www.amazon.com.mx/dp/1771889217",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UL320_.gif",
+        "is_prime": false,
+        "sponsored": false
+      },
+      {
+        "position": 8,
+        "title": "Biologically Active Natural Products: Microbial Technologies and Phyto-Pharmaceuticals in Drug Development",
+        "asin": "1771889047",
+        "link": "https://www.amazon.com.mx/dp/1771889047",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UL320_.gif",
+        "is_prime": false,
+        "sponsored": false
+      },
+      {
+        "position": 9,
+        "title": "Natural Products Chemistry: Biomedical and Pharmaceutical Phytochemistry",
+        "asin": "1771888768",
+        "link": "https://www.amazon.com.mx/dp/1771888768",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UL320_.gif",
+        "is_prime": false,
+        "sponsored": false
+      },
+      {
+        "position": 10,
+        "title": "Controlled Release Fertilizers for Sustainable Agriculture",
+        "asin": "012819555X",
+        "link": "https://www.amazon.com.mx/dp/012819555X",
+        "categories": [
+          {
+            "name": "Todos los departamentos"
+          }
+        ],
+        "image": "https://m.media-amazon.com/images/I/71Fe3pjornL._AC_UL320_.jpg",
+        "is_prime": false,
+        "sponsored": false
+      }
+    ]
+  }

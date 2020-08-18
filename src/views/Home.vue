@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <h1>Home</h1>
+    <Search />
   </div>
 </template>
 
@@ -9,7 +10,7 @@
 export default {
   name: 'Home',
   components: {
-    
+    Search: () => import('@/components/layaout/Search.vue')
   }
 }
 </script>
